@@ -1,4 +1,4 @@
-# GarageManagement
+# ParkSmart
 Manage Garage and Parking. Using .NET 5 and Angular 12
 
 ## Structure
